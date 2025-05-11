@@ -1,0 +1,5 @@
+Hilo 2: 0.0160697 segundos
+Hilo 5: 0.0180506 segundos
+Hilo 4: 0.0182671 segundos
+Hilo 1: 0.0187961 segundos
+Hilo 3: 0.0189614 segundos
